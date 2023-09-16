@@ -15,15 +15,32 @@ As the course is completely fresh, the topics to be covered, assignments, struct
 For each topic, there is a home assignment - usually a jupyter notebook with additional util scripts and detailed description of the task provided. The student is aimed to complete the coding tasks and express an opinion on certain problems if prompted to. The maximum number of points per assignment is 15p. 
 
 ## Evaluation
-- 4 H/A make it a total 60p of the total mark.
-- A short oral presentation (up to 15m) of the selected NLP research paper gives a max of 10p.
-- The final exam, or rather the alternative group project assignment (similar to a Kaggle competition) yields the remaining 30p.
+- 3 H/As make it a total 60 pts of the total mark.
+- A short oral presentation (up to 15m) of the selected NLP research paper gives a max of 10 pts.
+- The final exam, or rather the alternative group project assignment (similar to a Kaggle competition) yields the remaining 30 pts.
   
 | Activity              | Max. Points  |
 | --------------------- | ------------ |
-| 4 Home Assignments    | 60           |
+| 3 Home Assignments    | 60           |
 | Research Presentation | 10           |
 | Final Group Project   | 30           |
+| --------------------- | ------------ |
+| Total                 | 100          |
 
-## Assignment 1
-In this assignment, you will practice how to compute word embeddings and use them for sentiment analysis. The assignemnt can be found [here](https://github.com/dmytro-kuzmenko/nlp-systems-kma/tree/main/Assignment%201)
+## Assignment 1 (20 pts)
+In this assignment, you will practice how to compute word embeddings and use them for sentiment analysis. The assignemnt can be found [here](https://github.com/dmytro-kuzmenko/nlp-systems-kma/tree/main/Assignment%201).
+
+## Assignment 2 (20 pts)
+
+
+
+## Assignment 3 (20 pts)
+TBD.
+
+## Research Presentation and Topics (10 pts)
+You are to select a paper of interest in NLP and present a short, 10-min breakdown of it during the class. This may either be a live presentation of a recording.
+
+## Final Group Project "UNLP 2023 GEC for Ukrainian" (30 pts)
+Link to the task and the instructions: https://github.com/asivokon/unlp-2023-shared-task. 
+You are to split into teams of 3-5 people, come up with a name for the team, and select one person as a team lead (TL). 
+Fill out the team composition [here](https://docs.google.com/spreadsheets/d/1eoZ2YkiNAsZEo_OGd7qWcaEeRw7pblp4GaeR_u5bRDc/edit?usp=sharing).
