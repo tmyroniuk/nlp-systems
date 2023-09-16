@@ -31,8 +31,7 @@ For each topic, there is a home assignment - usually a jupyter notebook with add
 In this assignment, you will practice how to compute word embeddings and use them for sentiment analysis. The assignemnt can be found [here](https://github.com/dmytro-kuzmenko/nlp-systems-kma/tree/main/Assignment%201).
 
 ## Assignment 2 (20 pts)
-
-
+In this assignment, you will practice data preprocesing, RNN training from scratch, forward- and backprop through time, and you will also generate some slick dinosaur names. The assignemnt can be found [here](https://github.com/dmytro-kuzmenko/nlp-systems-kma/tree/main/Assignment%202).
 
 ## Assignment 3 (20 pts)
 TBD.
