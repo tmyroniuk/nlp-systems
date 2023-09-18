@@ -24,8 +24,7 @@ For each topic, there is a home assignment - usually a jupyter notebook with add
 | 3 Home Assignments    | 60           |
 | Research Presentation | 10           |
 | Final Group Project   | 30           |
-| --------------------- | ------------ |
-| Total                 | 100          |
+| *Total*               | *100*        |
 
 ## Assignment 1 (20 pts)
 In this assignment, you will practice how to compute word embeddings and use them for sentiment analysis. The assignemnt can be found [here](https://github.com/dmytro-kuzmenko/nlp-systems-kma/tree/main/Assignment%201).
