@@ -2,3 +2,6 @@ numpy
 nltk
 matplotlib
 scipy
+tensorflow
+transformers
+ipywidgets
